@@ -22,20 +22,18 @@ This project contains my configuration files (dotfiles), wallpapers, and an inst
 
 # Structure
 
+```text
 my-i3-rice/
 ├── configs/
 │   ├── i3/
-│   │   ├── config
-│   │   └── powermenu.sh
 │   ├── polybar/
 │   ├── rofi/
-│   ├── dunst/
-│   │   └── dunstrc
 │   ├── kitty/
 │   └── superfile/
 ├── wallpapers/
 ├── install.sh
 └── README.md
+```
 
 # Installation
 
