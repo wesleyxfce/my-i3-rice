@@ -56,6 +56,7 @@ cp -r "$REPO_DIR/configs/rofi" "$HOME/.config/"
 cp -r "$REPO_DIR/configs/kitty" "$HOME/.config/"
 cp -r "$REPO_DIR/configs/superfile" "$HOME/.config/"
 cp -r "$REPO_DIR/configs/dunst" "$HOME/.config/"
+cp -r "$REPO_DIR/configs/nvim" "$HOME/.config/"
 
 echo
 echo "󰸉 Copiando Wallpapers..."
